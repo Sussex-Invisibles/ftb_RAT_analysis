@@ -1,1 +1,1 @@
-export PYTHONPATH=$PYTHONPATH:/home/el230/SNO+/ftbAnalysis/:/home/el230/:
+export PYTHONPATH=$PYTHONPATH:$(pwd)
