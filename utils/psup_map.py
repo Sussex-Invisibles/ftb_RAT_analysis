@@ -188,4 +188,3 @@ def proj_pmts(pmt_hits, title, xbins = 300, ybins = 300):
     #fname = "figs/psup_hits/"+run+".pdf"
     #can.Print(fname)
     return h_proj
-
